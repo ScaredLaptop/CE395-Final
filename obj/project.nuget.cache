@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxsnf2Bzy5YWgW3PrCFKe9jrGQgB5j+SAnstW1KaN5UhBkLIAsC6JkAhrVTQ7nkC+c6cqmNrgfzDBPZJIZ5dbw==",
+  "success": true,
+  "projectFilePath": "/Users/liampatterson/Documents/IOT/CE395/CE395.csproj",
+  "expectedPackageFiles": [
+    "/Users/liampatterson/.nuget/packages/microsoft.cognitiveservices.speech/1.37.0/microsoft.cognitiveservices.speech.1.37.0.nupkg.sha512"
+  ],
+  "logs": []
+}
